@@ -2,7 +2,7 @@
 Final Project in the subject Intelligent Systems (CCS229)
 _________________________________________________________
 ## Unleash Your Inner Songwriter with Likhawit: An AI Lyricist
-Musika ng AI is an AI-powered tool that helps you craft song lyrics in various genres and languages. This README will guide you through setting up the project and using it to unlock your creative potential.
+**Likhawit** is an AI-powered tool that helps you craft song lyrics in various genres and languages. This README will guide you through setting up the project and using it to unlock your creative potential.
 
 ### Getting Started:
 1. **Prerequisites:** Ensure you have Python 3.6 or later, Streamlit (installable with pip install streamlit), and an OpenAI API key (obtainable for free at https://platform.openai.com/login?launch).
