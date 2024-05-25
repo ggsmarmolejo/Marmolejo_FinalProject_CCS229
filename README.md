@@ -1,6 +1,6 @@
 # Marmolejo_FinalProject_CCS229
-Final Project in the subject Intelligent Systems (CCS229)
-_________________________________________________________
+A Final Project in the subject Intelligent Systems (CCS229) by **Glaiza Gynn S. Marmolejo, BSCS 3A-AI**
+____________________________________________________________________________________________________
 ## Unleash Your Inner Songwriter with Likhawit: An AI Lyricist
 **Likhawit** is an AI-powered tool that helps you craft song lyrics in various genres and languages. This README will guide you through setting up the project and using it to unlock your creative potential.
 
