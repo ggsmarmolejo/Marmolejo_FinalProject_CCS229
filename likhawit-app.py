@@ -32,6 +32,10 @@ async def generate_lyrics(genre: str, language: str, topic: str = None) -> str:
     )
     return response.choices[0].message.content
 
+# Add spacing between sentences (replace with your preferred separator)
+    spaced_lyrics = lyrics.replace(". ", ". \n")  # Replace with "\n\n" for double spacing
+
+    return spaced_lyrics
 
 def main():
     """
